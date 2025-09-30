@@ -57,7 +57,7 @@ const RandomStringGenerator = () => {
   }, [generateString]);
 
   return (
-    <div className="min-h-screen bg-white p-4">
+    <div className="min-h-screen p-4" >
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6 mb-6">
           <div className="text-center mb-8">
